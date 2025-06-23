@@ -3,3 +3,4 @@ Lista de tarefas
 1 - Ir pra academia
 2 - Estudar
 3 - Lava louça
+4 - trabalhar
