@@ -1,0 +1,4 @@
+Sugestões de melhoria:
+
+- Adicionar categorias para tarefas
+- Permitir marcar tarefas como concluídas
